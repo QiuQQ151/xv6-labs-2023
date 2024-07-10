@@ -61,6 +61,7 @@ search path, you can run "make qemu".
 9、本地修改的9
 10、本地修改的10
 11、本地修改的11 
+<<<<<<< HEAD
 
 
 21.55分
@@ -68,4 +69,6 @@ search path, you can run "make qemu".
 1、网页输入的
 2、本地输入的
 3、本地修改的3
+=======
+>>>>>>> ee54c48450b9a70508af189f78ca5c20052b8804
 
