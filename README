@@ -48,9 +48,4 @@ https://github.com/riscv/riscv-gnu-toolchain, and qemu compiled for
 riscv64-softmmu.  Once they are installed, and in your shell
 search path, you can run "make qemu".
 
-补充说明：
-1、已撤掉所有补充
-3、123456789
-4、789456123
-5、951357
-6\5645345
+1、 
