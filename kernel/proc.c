@@ -1,5 +1,5 @@
 #include "types.h"
-#include "param.h"
+#include "param.h"    //此处定义了系统的一些信息
 #include "memlayout.h"
 #include "riscv.h"
 #include "spinlock.h"
